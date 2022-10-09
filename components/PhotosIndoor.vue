@@ -15,11 +15,17 @@
       >
   
         <!-- Slides with image only -->
-        <b-carousel-slide img-src="https://raw.githubusercontent.com/herokudev/Nuxt-Vue-Beach-House-Rental/main/static/House11.jpg"></b-carousel-slide>
+        <b-carousel-slide img-src="https://raw.githubusercontent.com/herokudev/Nuxt-Vue-Beach-House-Rental/main/static/House07.jpg"></b-carousel-slide>
   
         <!-- Slides with image only -->
-        <b-carousel-slide img-src="https://raw.githubusercontent.com/herokudev/Nuxt-Vue-Beach-House-Rental/main/static/House12.jpg"></b-carousel-slide>
+        <b-carousel-slide img-src="https://raw.githubusercontent.com/herokudev/Nuxt-Vue-Beach-House-Rental/main/static/House08.jpg"></b-carousel-slide>
   
+        <!-- Slides with image only -->
+        <b-carousel-slide img-src="https://raw.githubusercontent.com/herokudev/Nuxt-Vue-Beach-House-Rental/main/static/House09.jpg"></b-carousel-slide>
+        
+        <!-- Slides with image only -->
+        <b-carousel-slide img-src="https://raw.githubusercontent.com/herokudev/Nuxt-Vue-Beach-House-Rental/main/static/House13.jpg"></b-carousel-slide>
+
       </b-carousel>
 
     </div>

@@ -33,7 +33,8 @@
         padding: 5px;
         margin-top: 25px;
         margin-bottom: 25px;
-    }    .house_image {
+    }    
+    .house_image {
         object-fit: contain;
         display: block;
         width: auto;
