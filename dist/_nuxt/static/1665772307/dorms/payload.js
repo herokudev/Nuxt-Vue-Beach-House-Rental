@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dorms", {data:[{}],fetch:{},mutations:void 0});

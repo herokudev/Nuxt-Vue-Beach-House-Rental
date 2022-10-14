@@ -1,4 +1,7 @@
 export default {
+//target paramater to deploment
+target: 'static',
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Casalayola.com',

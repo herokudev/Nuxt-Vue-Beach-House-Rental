@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/exteriores", {data:[{}],fetch:{},mutations:void 0});
