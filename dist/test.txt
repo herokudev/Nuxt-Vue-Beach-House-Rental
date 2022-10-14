@@ -1,1 +1,1 @@
-** this is the distribution folder **
+** this file is the distribution folder **
