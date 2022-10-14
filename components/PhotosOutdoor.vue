@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div  class="container">
       <b-carousel
         id="carousel-1"
         v-model="slide"
@@ -36,6 +36,14 @@
 
     </div>
   </template>
+
+  <style scoped>
+  .container {
+        padding: 5px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }      
+  </style>
   
   <script>
     export default {

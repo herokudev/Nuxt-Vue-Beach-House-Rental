@@ -79,17 +79,11 @@
                           <div class="col-sm">
                             <input type="hidden" class="form-control s_website_form_input" name="email_to" value="casalayola@gmail.com">
                             <div class="s_website_form_field_description small form-text text-muted">
-            Separate email addresses with a comma.
-        </div>
+                            </div>
                           </div>
                         </div>
                       </div>
-                      <div class="form-group col-12 s_website_form_submit" data-name="Submit Button" data-original-title="" title="" aria-describedby="tooltip940178">
-                        <div style="width: 200px;" class="s_website_form_label "></div>
-                        <a href="#" role="button" class="s_website_form_send btn btn-primary btn-lg" data-original-title="" title="">Enviar Datos</a>
-                        <span id="s_website_form_result"></span>
-                        <br>
-                      </div>
+
                     </div>
                   </form>
                 </div>
