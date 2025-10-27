@@ -16,7 +16,7 @@
                 <span>El precio normal por noche es de USD $325.00</span>
                 <p></p>
                 <p></p>
-                <a class="btn btn-primary btn-contact" href="http://bit.ly/3ePHAA5" title="">Reserva en Airbnb</a>                                         
+                <a class="btn btn-primary btn-contact" href="bit.ly/3ePHAA5" title="">Reserva en Airbnb</a>                                     
                 <p></p>
                 <p></p>   
             </div>
